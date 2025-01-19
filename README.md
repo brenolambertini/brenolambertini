@@ -1,6 +1,9 @@
 ## Hi! Welcome to my profile!
 
-Mid-Level Full Stack Developer @ Port Louis
+• Mid-Level Full Stack Developer @ Port Louis
+
+• Interdisciplinary Bachelor's Degree in Science and Technology, with a focus on Computer
+Science and multidisciplinary training
 
 • My Portfolio: https://brn.vercel.app
 
