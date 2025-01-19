@@ -3,7 +3,7 @@
 • Mid-Level Full Stack Developer @ Port Louis
 
 • Interdisciplinary Bachelor's Degree in Science and Technology, with a focus on Computer
-Science and multidisciplinary training
+Science and multidisciplinary training (Federal University of São Paulo - UNIFESP)
 
 • My Portfolio: https://brn.vercel.app
 
