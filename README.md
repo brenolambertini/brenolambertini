@@ -1,9 +1,11 @@
 ## Hi! Welcome to my profile!
 
-• Mid-Level Full Stack Developer @ Port Louis
+• Mid-Level Vue.js Developer @ ONR
 
 • Interdisciplinary Bachelor's Degree in Science and Technology, with a focus on Computer
 Science and multidisciplinary training (Federal University of São Paulo - UNIFESP)
+
+• Postgraduate Degree in Software Engineering
 
 • My Portfolio: https://brn.vercel.app
 
