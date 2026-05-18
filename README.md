@@ -2,10 +2,10 @@
 
 • Mid-Level Vue.js Developer @ ONR
 
-• B.Sc. in Science and Technology (Computer Science), Federal University of São Paulo (UNIFESP), Brazil
+
+• B.Sc. in Science and Technology (Computer Science), Federal University of São Paulo (UNIFESP), Brasil<br>
 • Postgraduate Certificate in Software Engineering
 
-• My Portfolio: https://brn.vercel.app
-• My LinkedIn: https://www.linkedin.com/in/brenolambertini
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brenolambertini&layout=compact&langs_count=8&theme=tokyonight)](https://github.com/brenolambertini/)
+• My Portfolio: https://brn.vercel.app<br>
+• My LinkedIn: https://www.linkedin.com/in/brenolambertini
