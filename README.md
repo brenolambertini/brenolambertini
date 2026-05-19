@@ -7,5 +7,5 @@
 • Postgraduate Certificate in Software Engineering
 
 
-• My Portfolio: https://brn.vercel.app<br>
+• My Portfolio: https://brenolambertini.vercel.app<br>
 • My LinkedIn: https://www.linkedin.com/in/brenolambertini
