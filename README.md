@@ -1,6 +1,6 @@
 ## Hi! Welcome to my profile!
 
-• Mid-Level Vue.js Developer @ ONR
+• Frontend Software Engineer @ ONR
 
 
 • B.Sc. in Science and Technology (Computer Science), Federal University of São Paulo (UNIFESP), Brasil<br>
