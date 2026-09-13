@@ -4,7 +4,8 @@
 
 
 • B.Sc. in Science and Technology (Computer Science), Federal University of São Paulo (UNIFESP), Brasil<br>
-• Postgraduate Certificate in Software Engineering
+• Postgraduate Specialization in Software Engineering
+• Postgraduate Specialization in Cybersecurity (in progress)
 
 
 • My Portfolio: https://brenolambertini.com<br>
